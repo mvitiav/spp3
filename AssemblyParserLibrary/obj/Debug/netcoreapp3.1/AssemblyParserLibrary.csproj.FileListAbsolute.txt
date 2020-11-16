@@ -1,0 +1,9 @@
+G:\SPP\3\AssemblyParserLibrary\bin\Debug\netcoreapp3.1\AssemblyParserLibrary.deps.json
+G:\SPP\3\AssemblyParserLibrary\bin\Debug\netcoreapp3.1\AssemblyParserLibrary.dll
+G:\SPP\3\AssemblyParserLibrary\bin\Debug\netcoreapp3.1\AssemblyParserLibrary.pdb
+G:\SPP\3\AssemblyParserLibrary\obj\Debug\netcoreapp3.1\AssemblyParserLibrary.csprojAssemblyReference.cache
+G:\SPP\3\AssemblyParserLibrary\obj\Debug\netcoreapp3.1\AssemblyParserLibrary.csproj.CoreCompileInputs.cache
+G:\SPP\3\AssemblyParserLibrary\obj\Debug\netcoreapp3.1\AssemblyParserLibrary.AssemblyInfoInputs.cache
+G:\SPP\3\AssemblyParserLibrary\obj\Debug\netcoreapp3.1\AssemblyParserLibrary.AssemblyInfo.cs
+G:\SPP\3\AssemblyParserLibrary\obj\Debug\netcoreapp3.1\AssemblyParserLibrary.dll
+G:\SPP\3\AssemblyParserLibrary\obj\Debug\netcoreapp3.1\AssemblyParserLibrary.pdb
